@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Alvaro</h1>
 <h3 align="center">A developer enthusiast!</h3>
-<img align="right" alt="coding" width="400"  src="https://i.pinimg.com/originals/a0/f1/af/a0f1af5e960346a30d7f5393d22c5235.gif">
+<img align="right" alt="coding"   src="https://i.pinimg.com/originals/a0/f1/af/a0f1af5e960346a30d7f5393d22c5235.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mightyssge&label=Profile%20views&color=0e75b6&style=flat" alt="mightyssge" /> </p>
 
