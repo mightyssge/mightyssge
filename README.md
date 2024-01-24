@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Mobile app deployment**
 
-- 💬 Ask me about **Leading strategies**
+- 💬 Ask me about **Leading teams!**
 
 - 📫 How to reach me **alvarosanchezal21@gmail.com**
 
